@@ -158,7 +158,7 @@ function closeAppAlert() {
 
 function openDownload() {
     // Navigate to download page or trigger download
-    window.open('https://www.dropbox.com/scl/fi/vgajlggrtchspgqnsod4n/WatchMeTogether-Setup.exe?rlkey=ak4cks0mtbba9m6h0cyfftdom&st=v0y1675j&dl=1', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/u0ynnqw56yx2y1vagbs9p/WatchMeTogether-V3.exe?rlkey=075f2oj3705y20zi4a6g05bqj&st=fnn31owa&dl=1', '_blank');
 }
 
 // === LEGAL MODAL LOGIC ===
