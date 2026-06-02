@@ -158,7 +158,7 @@ function closeAppAlert() {
 
 function openDownload() {
     // Navigate to download page or trigger download
-    window.open('https://cdn.discordapp.com/attachments/1507703480666554370/1510384623463432262/WatchMeTogher_Setup.exe?ex=6a1df04b&is=6a1c9ecb&hm=e8651a97d5f5f0f01b1b1b3036f175fa72df691525106b2c9d088aebe89f16fa&', '_blank');
+    window.open('https://cdn.discordapp.com/attachments/1507703480666554370/1511434187909890190/WatchMeTogether_Setup.exe?ex=6a207047&is=6a1f1ec7&hm=e57deb3a634c17be4a5f30cb793a59c942be56d75cf2b6b70322adff6a5df5cf&', '_blank');
 }
 
 // === LEGAL MODAL LOGIC ===
