@@ -158,7 +158,7 @@ function closeAppAlert() {
 
 function openDownload() {
     // Navigate to download page or trigger download
-    window.open('https://cdn.discordapp.com/attachments/1511837465655119882/1514050494799282196/WatchmetogetherSetup.exe?ex=6a29f4e7&is=6a28a367&hm=3edcc8c50349d26bc2407c6953b86c78c327ccfc2f3fcb2af8786048ad6e4f3b&', '_blank');
+    window.open('https://www.dropbox.com/scl/fi/qkzowr7g4yf64ojtr0tip/WatchMeTogether.exe?rlkey=sef49t2dy3kslovjekq5xtv9c&st=d7mnviss&dl=1', '_blank');
 }
 
 // === LEGAL MODAL LOGIC ===
